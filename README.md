@@ -32,8 +32,7 @@ headlines.
 1. Previous button is used to go to the previous news.
 2. Next button is used to browse the next news.
 3. If it’s the first item in the list, and you press the Previous Button, a toast appears
-to let you know the you are on the first item.
-<br>
+to let you know the you are on the first item.<br>
 8. There is a Button to Quit the app
 
 <img src="ss.png"/>
