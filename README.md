@@ -10,14 +10,12 @@ register) <br>
 3. Please go through the example given there.
 1. The base API link will be: https://newsapi.org/v2/top-headlines?
 sources=buzzfeed&apiKey=<YOUR_KEY>
-2. There will be 10 news headlines.
-<br>
-4. You need to parse the articles array.
+2. There will be 10 news headlines.<br>
+4. Parsed the articles array.
 (a) Loading ProgressBar (b) News Headlines
 1. In each item of the array, you will see several attributes, such as author, title,
 description, url, urlToImage, publishedAt, and content.
-2. Parsed the title, publishedAt, urlToImage, and description.
-<br>
+2. Parsed the title, publishedAt, urlToImage, and description.<br>
 5. Created an ArrayList of News objects.
 1. Each News object contains title, publishedAt, urlToImage, and
 description. <br> 
